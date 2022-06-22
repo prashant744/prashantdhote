@@ -11,7 +11,8 @@ body {
 #body-header {
     height: 65vh;
     opacity: 0.8;
-    background-image: url(https://ninjasfiles.s3.amazonaws.com/asset_0000000000000020_1549743985_macbook_mouse.jpg);
+    background-image: url(https://img.freepik.com/free-photo/modern-futuristic-sci-fi-background_35913-2152.jpg?t=st=1655903605~exp=1655904205~hmac=4139324bbc8ac73963150275d7235189ff0bfe2b8c2c434600d79996e0bd13e8&w=740);
+    /* background-image: url(https://ninjasfiles.s3.amazonaws.com/asset_0000000000000020_1549743985_macbook_mouse.jpg); */
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
